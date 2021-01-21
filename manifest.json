@@ -1,0 +1,12 @@
+{
+    "manifest_version": "1",
+    "name": "Matcha-dark-sea",
+    "display_name": "Matcha dark sea",
+    "extend_theme": "dark",
+    "css_file": "theme.css",
+    "css_file_gtk_3.20+": "theme-gtk-3.20.css",
+    "matched_text_hl_colors": {
+        "when_selected": "#f7f7f7",
+        "when_not_selected": "#2eb398"
+    }
+}
