@@ -3,7 +3,7 @@
 A theme for Ulauncher. Matcha Dark Sea (Manjaro Dark color Schema).
 
 ## Screenshot
--------
+![](https://i.ibb.co/9v9YQb1/ulauncher-dark-manjaro.png)
 
 ## Installation
 
