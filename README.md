@@ -1,4 +1,4 @@
-# Yaru Dark Ulauncher
+# Matcha Dark Sea Ulauncher
 
 A theme for Ulauncher. Matcha Dark Sea (Manjaro Dark color Schema).
 
